@@ -1,0 +1,1 @@
+SpawnEntityFromTableAsynchronous( "logic_relay", { vscripts = "server_stuff/precacheModel.lua" }, nil, nil )
