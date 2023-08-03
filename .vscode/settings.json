@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "bit",
+        "CCustomGameEventManager"
+    ],
+    "Lua.diagnostics.disable": [
+        "duplicate-set-field",
+        "undefined-global"
+    ]
+}
