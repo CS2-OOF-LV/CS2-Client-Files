@@ -56,6 +56,7 @@
 						"mg_de_mirage"		"0"
 						"mg_de_nuke"		"0"
 						"mg_cs_office"		"0"
+						"mg_cs_italy"		"0"
 					}
 
 					// Map groups for online modesw
@@ -111,6 +112,7 @@
 						"mg_de_mirage"		"0"
 						"mg_de_nuke"		"0"
 						"mg_cs_office"		"0"
+						"mg_cs_italy"		"0"
 					}
 
 					// Map groups for online modes
@@ -431,6 +433,7 @@
 						"mg_de_mirage"			"0"
 						"mg_de_nuke"			"0"
 						"mg_cs_office"			"0"
+						"mg_cs_italy"			"0"
 					}
 
 					// Map groups for online modes
@@ -869,6 +872,7 @@
 			"maps"
 			{
 				"cs_office"	""
+				"cs_italy"	""
 			}
 		}
 
@@ -891,22 +895,22 @@
 				"de_vertigo"		""
 				"de_ancient"	""
 				"de_anubis"		""
+				"cs_italy"		""
 			}
 		}
 		
 		"mg_casualdelta"
 		{
-			"imagename"				"mapgroup-casualdelta"
-			"nameID"				"#SFUI_Mapgroup_limitedtest"
-			"tooltipID"				"#SFUI_MapGroup_Tooltip_Desc_LimitedTest"
-			"tooltipMaps"			"de_overpass,de_vertigo"
+			"imagename"				"map-italy-overall"
+			"nameID"				"#SFUI_Map_cs_italy"
+			"tooltipID"				"#SFUI_Map_Tooltip_Desc_Hostage"
 			"name"					"mg_casualdelta"
-			"grouptype"				"reserves"
-			"icon_image_path"		"map_icons/mapgroup_icon_reserves"
+			"icontag"				"hostage"
+			"grouptype"				"hostage"
+			"icon_image_path"		"map_icons/map_icon_cs_italy"
 			"maps"
 			{
-				"de_overpass"		""
-				"de_vertigo"		""
+				"cs_italy"		""
 			}
 		}
 		
