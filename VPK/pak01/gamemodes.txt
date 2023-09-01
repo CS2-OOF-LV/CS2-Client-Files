@@ -49,6 +49,7 @@
 					"mapgroupsSP"
 					{
 						"mg_de_ancient"		"0"
+						"mg_de_inferno"		"0"
 						"mg_de_anubis"		"0"
 						"mg_de_overpass"	"0"
 						"mg_de_vertigo"		"0"
@@ -106,6 +107,7 @@
 					{
 						"mg_de_ancient"		"0"
 						"mg_de_anubis"		"0"
+						"mg_de_inferno"		"0"
 						"mg_de_overpass"	"0"
 						"mg_de_vertigo"		"0"
 						"mg_de_dust2"		"0"
@@ -426,6 +428,7 @@
 					"mapgroupsSP"
 					{
 						"mg_de_ancient"			"0"
+						"mg_de_inferno"			"0"
 						"mg_de_anubis"			"0"
 						"mg_de_overpass"		"0"
 						"mg_de_vertigo"			"0"
@@ -852,6 +855,7 @@
 			{
 				"de_dust2"	""				
 				"de_mirage"	""
+				"de_inferno"	""
 				"de_nuke"	""				
 				"de_overpass"	""
 				"de_vertigo"	""
@@ -889,6 +893,7 @@
 			{
 				"de_dust2"	""				
 				"de_mirage"	""
+				"de_inferno"	""
 				"de_nuke"	""
 				"cs_office"	""
 				"de_overpass"	""
